@@ -1,0 +1,4 @@
+management:
+  metrics:
+    tag:
+      default-value: unknown

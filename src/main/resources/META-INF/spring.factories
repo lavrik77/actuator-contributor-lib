@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+ru.globaltruck.actuator.configuration.ContributorCofiguration
+
+org.springframework.boot.env.EnvironmentPostProcessor=\
+ru.globaltruck.actuator.configuration.loader.LibPropertiesLoader
